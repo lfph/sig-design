@@ -26,7 +26,7 @@ Co-create guidelines for user interface, user experience, and product strategy t
 ... vaccinate LFPH efforts with good design research process
 ... establish measurable metrics that show design success (with the people that use the service and within community development)
 
-All work will be open source, licensed under Creative Commons Attribution v4, and produced, discussed, and critiqued in the open, from day 1.
+All work will be open source, licensed under the Apache 2.0 license (https://github.com/lfph/sig-ui-ux/blob/master/LICENSE), and produced, discussed, and critiqued in the open, from day 1.
 
 
 We are looking for fellow designers, engineers, and public health apostles to establish a Design force within the LFPH. Please email (juhan@mit.edu) and/or join the Slack channel (lfpublichealth.slack.com) for community jamming. 
