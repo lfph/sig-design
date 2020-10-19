@@ -1,4 +1,4 @@
-# sig-ui-ux
+# sig-design
 Special Interest Group for Design (User Research, Interface, and Experience)
 
 
