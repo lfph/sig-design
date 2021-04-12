@@ -1,7 +1,7 @@
 # Meeting Notes
 
 ### Table of Contents
-[April 12, 2021](https://github.com/lfph/sig-design/new/master#april-12-2021)
+[April 12, 2021](https://github.com/lfph/sig-design/blob/master/branding-task-force/meeting-notes.md#april-12-2021)
 
 ## April 12, 2021
 
