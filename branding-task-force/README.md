@@ -1,7 +1,7 @@
-# sig-design: Special Interest Group for Design (User Research, Interface, and Experience)
+# sig-design: branding project outline
 
 
-## Project Goal
+## Goal
 
 Research, design, and ship a Linux Foundation Public Health story, mark, and community-driven website that reflects the organization.
 
