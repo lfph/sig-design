@@ -1,4 +1,4 @@
-# sig-design: branding project outline
+# Branding Project Outline
 
 
 ## Goal
