@@ -24,6 +24,7 @@ Start with...
 * The 1-liner: What is LFPH?
 * The 1-pager: What is LFPH, its mission to open source public healthcare
 * Who is our audience?
+* See our [working document](https://docs.google.com/document/d/116dOf89xP8ksnskxkdyt6fTtyvX1VhDbL-rRUeJV4fM/edit?usp=sharing)
 
 Next priority:
 * The LFPH mark, the visual symbol(s)
