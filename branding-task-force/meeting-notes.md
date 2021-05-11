@@ -66,3 +66,21 @@
     - Jenny to start writing the story document and pulling together the ways we talk about ourselves generally to collaborate
 - Eriol's `An open source design process for logo's and brand`
     - https://pad.riseup.net/p/Open-source-design-process-keep
+
+## May 11, 2021
+
+### Attendees
+- Ed Wanicke
+- Juhan Sonin
+- Jenny Wanger
+- Chinaza Icheke
+
+### Notes
+- LFPH vs LFH
+- Review "[What is LFPH](https://docs.google.com/document/d/116dOf89xP8ksnskxkdyt6fTtyvX1VhDbL-rRUeJV4fM/edit#heading=h.ye110ft2vkqw)" document
+        - Comments in the document
+        - Mostly wrote out version 2.3
+- Next steps - work on the mark
+        - Need to get lots of people to sketch ideas
+        - Reach out to Eirol to take lead on this piece? 
+
