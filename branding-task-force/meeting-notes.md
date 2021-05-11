@@ -82,5 +82,5 @@
         - Mostly wrote out version 2.3
 - Next steps - work on the mark
         - Need to get lots of people to sketch ideas
-        - Reach out to Eirol to take lead on this piece? 
+        - Reach out to Eriol to take lead on this piece? 
 
