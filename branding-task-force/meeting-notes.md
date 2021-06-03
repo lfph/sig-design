@@ -2,6 +2,7 @@
 
 ### Table of Contents
 [April 12, 2021](https://github.com/lfph/sig-design/blob/master/branding-task-force/meeting-notes.md#april-12-2021)
+
 [May 11, 2021](https://github.com/lfph/sig-design/blob/main/branding-task-force/meeting-notes.md#may-11-2021)
 
 ## April 12, 2021
